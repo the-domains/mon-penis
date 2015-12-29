@@ -1,0 +1,29 @@
+name: Mon Pénis
+favicon: null
+layout_spectrum: 0.924736917251721
+typography_spectrum: 0.5728249684907496
+title: 'Mon Pénis, Mon Toutou!'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3052664075512439
+  lightness: 0.030896120239049196
+  saturation: 0.42459883308038116
+  rhythmicContrast: 0.5611311183311045
+purpose: []
